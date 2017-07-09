@@ -1,0 +1,16 @@
+<data>
+  <columns>
+    <NODE0 index="1">NODE0</NODE0>
+    <NODE1 index="2">NODE1</NODE1>
+  </columns>
+  <records>
+    <record index="1">
+      <NODE0>name</NODE0>
+      <NODE1>value</NODE1>
+    </record>
+    <record index="2">
+      <NODE0>This is a test file</NODE0>
+      <NODE1>123</NODE1>
+    </record>
+  </records>
+</data>

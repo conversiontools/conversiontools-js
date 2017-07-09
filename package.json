@@ -1,0 +1,15 @@
+{
+  "name": "conversiontools-js",
+  "version": "1.0.0",
+  "description": "JavaScript library to access ConversionTools API at https://conversiontools.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "author": "drdaemon",
+  "license": "SEE LICENSE IN LICENSE.md FILE",
+  "dependencies": {
+    "form-data": "^2.2.0",
+    "node-fetch": "^1.7.1"
+  }
+}
